@@ -1,3 +1,3 @@
-Study C# & .NET
+ C# & .NET
 
 Este repositório reúne meus exercícios e anotações do curso de C#, registrando minha evolução nos estudos. O objetivo é praticar a linguagem de forma constante, consolidar conceitos fundamentais de programação e criar um histórico de aprendizado no GitHub. Aqui você encontrará arquivos organizados por aulas e tópicos, abordando temas como operadores lógicos e aritméticos, estruturas condicionais (if, else, switch), laços de repetição (for, while, foreach), arrays, listas e outros conceitos que serão adicionados conforme avanço no curso. Todo o conteúdo é desenvolvido em C# utilizando a plataforma .NET, e o repositório será atualizado a cada nova aula ou exercício realizado.
